@@ -8,9 +8,12 @@
       "Processing web content may lead to a denial-of-service"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/79a659d55c63c76abcb5c54b02dffe7631b68e6b"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2025-0001.html"
+      "https://webkitgtk.org/security/WSA-2025-0001.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=263758"
     ],
     "releases": [
       {

@@ -45,7 +45,7 @@
 | CVE-2022-22629 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 15.4](https://support.apple.com/en-us/102850) |
 | CVE-2022-22628 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 15.4](https://support.apple.com/en-us/102850) |
 | CVE-2022-22624 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 15.4](https://support.apple.com/en-us/102850) |
-| CVE-2022-22620 | — | Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited. | yes | — | [iOS 15.3.1](https://support.apple.com/en-us/103182) |
+| CVE-2022-22620 | [235551](https://bugs.webkit.org/show_bug.cgi?id=235551) | Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited. | yes | [486816dc355c](https://github.com/WebKit/WebKit/commit/486816dc355c19f1de1b8056f85d0bbf7084dd6e) | [iOS 15.3.1](https://support.apple.com/en-us/103182) |
 | CVE-2022-22610 | — | Processing maliciously crafted web content may lead to code execution | no | — | [iOS 15.4](https://support.apple.com/en-us/102850) |
 | CVE-2022-22592 | — | Processing maliciously crafted web content may prevent Content Security Policy from being enforced | no | — | [iOS 15.3](https://support.apple.com/en-us/103172) |
 | CVE-2022-22590 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 15.3](https://support.apple.com/en-us/103172) |

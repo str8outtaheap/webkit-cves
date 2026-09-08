@@ -5,7 +5,7 @@
 
 | CVE | Bugzilla | Impact | ITW | Fix | Apple releases |
 | --- | --- | --- | --- | --- | --- |
-| CVE-2024-54658 | [263758](https://bugs.webkit.org/show_bug.cgi?id=263758) | Processing web content may lead to a denial-of-service | no | — | [iOS 17.4](https://support.apple.com/en-us/120893) |
+| CVE-2024-54658 | [263758](https://bugs.webkit.org/show_bug.cgi?id=263758) | Processing web content may lead to a denial-of-service | no | [79a659d55c63](https://github.com/WebKit/WebKit/commit/79a659d55c63c76abcb5c54b02dffe7631b68e6b) | [iOS 17.4](https://support.apple.com/en-us/120893) |
 | CVE-2024-54551 | [275117](https://bugs.webkit.org/show_bug.cgi?id=275117) | Processing web content may lead to a denial-of-service | no | [e73dfba967ee](https://github.com/WebKit/WebKit/commit/e73dfba967ee3b8d87afc74425a343cac523845b) | [iOS 17.6](https://support.apple.com/en-us/120909) |
 | CVE-2024-54543 | [277967](https://bugs.webkit.org/show_bug.cgi?id=277967) | Processing maliciously crafted web content may lead to memory corruption | no | [ccef7b85cc9b](https://github.com/WebKit/WebKit/commit/ccef7b85cc9b91a1cf352883a27602c2a5ea57bc) | [iOS 18.2](https://support.apple.com/en-us/121837) |
 | CVE-2024-54534 | [277967](https://bugs.webkit.org/show_bug.cgi?id=277967) | Processing maliciously crafted web content may lead to memory corruption | no | [ccef7b85cc9b](https://github.com/WebKit/WebKit/commit/ccef7b85cc9b91a1cf352883a27602c2a5ea57bc) | [iOS 18.2](https://support.apple.com/en-us/121837) |

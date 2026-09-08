@@ -73,7 +73,7 @@
 | CVE-2019-8623 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |
 | CVE-2019-8622 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |
 | CVE-2019-8619 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |
-| CVE-2019-8615 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |
+| CVE-2019-8615 | [196525](https://bugs.webkit.org/show_bug.cgi?id=196525) | Processing maliciously crafted web content may lead to arbitrary code execution | no | [38c14d3a643b](https://github.com/WebKit/WebKit/commit/38c14d3a643be588fb8c59817b693232f9bff2f4) | [iOS 12.3](https://support.apple.com/en-us/103101) |
 | CVE-2019-8611 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |
 | CVE-2019-8610 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |
 | CVE-2019-8609 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 12.3](https://support.apple.com/en-us/103101) |

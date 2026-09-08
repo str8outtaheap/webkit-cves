@@ -2150,14 +2150,19 @@
   },
   {
     "id": "CVE-2017-2446",
-    "bugzilla": [],
+    "bugzilla": [
+      "165628"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/389a27db74f7f55b128724a967a4d257b860dad1"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2017-0003.html"
+      "https://webkitgtk.org/security/WSA-2017-0003.html",
+      "https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/"
     ],
     "releases": [
       {

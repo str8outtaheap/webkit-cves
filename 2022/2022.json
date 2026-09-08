@@ -917,14 +917,19 @@
   },
   {
     "id": "CVE-2022-22620",
-    "bugzilla": [],
+    "bugzilla": [
+      "235551"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited."
     ],
     "itw": true,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/486816dc355c19f1de1b8056f85d0bbf7084dd6e"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2022-0003.html"
+      "https://webkitgtk.org/security/WSA-2022-0003.html",
+      "https://googleprojectzero.github.io/0days-in-the-wild/0day-RCAs/2022/CVE-2022-22620.html"
     ],
     "releases": [
       {

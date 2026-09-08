@@ -457,15 +457,21 @@
   },
   {
     "id": "CVE-2016-4768",
-    "bugzilla": [],
+    "bugzilla": [
+      "160470"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/70f7c1bd6365e8df6097f4ea864c5504d37b75c8",
+      "https://github.com/WebKit/WebKit/commit/bee4794b7346eb22748a413baa6641feae5d3eed"
+    ],
     "references": [
       "https://webkitgtk.org/security/WSA-2016-0006.html",
-      "https://www.zerodayinitiative.com/advisories/ZDI-16-527/"
+      "https://www.zerodayinitiative.com/advisories/ZDI-16-527/",
+      "https://bugs.webkit.org/show_bug.cgi?id=160470"
     ],
     "releases": [
       {
@@ -477,14 +483,19 @@
   },
   {
     "id": "CVE-2016-4767",
-    "bugzilla": [],
+    "bugzilla": [
+      "159238"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2cca3ff7beebe48b8b504b22d988c0b0b9e96b79"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159238"
     ],
     "releases": [
       {
@@ -496,14 +507,19 @@
   },
   {
     "id": "CVE-2016-4766",
-    "bugzilla": [],
+    "bugzilla": [
+      "159605"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/8a147229d7c96fdede3835315cd491ee2120a752"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159605"
     ],
     "releases": [
       {
@@ -515,14 +531,19 @@
   },
   {
     "id": "CVE-2016-4765",
-    "bugzilla": [],
+    "bugzilla": [
+      "159519"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/de883c0c16140e6365a1929ee818964b28911ec0"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159519"
     ],
     "releases": [
       {
@@ -534,14 +555,19 @@
   },
   {
     "id": "CVE-2016-4764",
-    "bugzilla": [],
+    "bugzilla": [
+      "159262"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ad507bea7c14dfcaa19bf79453b81faca756b01e"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159262"
     ],
     "releases": [
       {
@@ -553,13 +579,19 @@
   },
   {
     "id": "CVE-2016-4763",
-    "bugzilla": [],
+    "bugzilla": [
+      "159176"
+    ],
     "impacts": [
       "An attacker in a privileged network position may be able to intercept and alter network traffic to applications using WKWebView with HTTPS"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ba8ffa0c535843676f9ec169a104e1aae776627a"
+    ],
+    "references": [
+      "https://bugs.webkit.org/show_bug.cgi?id=159176"
+    ],
     "releases": [
       {
         "name": "iOS 10.0",
@@ -570,14 +602,19 @@
   },
   {
     "id": "CVE-2016-4762",
-    "bugzilla": [],
+    "bugzilla": [
+      "159414"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f0535adffe7b861b8e2c2916b87950e51a5b112d"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159414"
     ],
     "releases": [
       {
@@ -589,14 +626,19 @@
   },
   {
     "id": "CVE-2016-4760",
-    "bugzilla": [],
+    "bugzilla": [
+      "158589"
+    ],
     "impacts": [
       "A malicious website may be able to access non-HTTP services"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/325b988fb19aee9a9fcc8e52dad9aa4a57524bfd"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=158589"
     ],
     "releases": [
       {
@@ -608,14 +650,19 @@
   },
   {
     "id": "CVE-2016-4759",
-    "bugzilla": [],
+    "bugzilla": [
+      "158108"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/287895c627c902311d01df68ed02eb679ba91699"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=158108"
     ],
     "releases": [
       {
@@ -627,14 +674,19 @@
   },
   {
     "id": "CVE-2016-4758",
-    "bugzilla": [],
+    "bugzilla": [
+      "155710"
+    ],
     "impacts": [
       "Visiting a maliciously crafted website may leak sensitive data"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/0709a89ee68af4cef30d2e1f3d427cff63d62567"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=155710"
     ],
     "releases": [
       {
@@ -682,14 +734,19 @@
   },
   {
     "id": "CVE-2016-4735",
-    "bugzilla": [],
+    "bugzilla": [
+      "157089"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/5d95ffc116cd18e798c7711e788c7fb04aa11a70"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=157089"
     ],
     "releases": [
       {
@@ -701,14 +758,19 @@
   },
   {
     "id": "CVE-2016-4734",
-    "bugzilla": [],
+    "bugzilla": [
+      "159241"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/cbb57325c19a727c727936865f48114954c65ee0"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159241"
     ],
     "releases": [
       {
@@ -720,14 +782,19 @@
   },
   {
     "id": "CVE-2016-4733",
-    "bugzilla": [],
+    "bugzilla": [
+      "159231"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/e1e859e08b0a95e515adb3b23b5cd87a27e50a9c"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=159231"
     ],
     "releases": [
       {
@@ -739,14 +806,19 @@
   },
   {
     "id": "CVE-2016-4731",
-    "bugzilla": [],
+    "bugzilla": [
+      "153491"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/61d41ea1ee8f564c13e3c58a966c6402a11cb76f"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=153491"
     ],
     "releases": [
       {
@@ -758,14 +830,19 @@
   },
   {
     "id": "CVE-2016-4730",
-    "bugzilla": [],
+    "bugzilla": [
+      "154146"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b485445fb56cba451219b059ba0244c48c8375b1"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=154146"
     ],
     "releases": [
       {
@@ -777,14 +854,19 @@
   },
   {
     "id": "CVE-2016-4729",
-    "bugzilla": [],
+    "bugzilla": [
+      "148653"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/e039f4b905798244c0ad2ea60f63c4ad508699c2"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=148653"
     ],
     "releases": [
       {
@@ -796,14 +878,19 @@
   },
   {
     "id": "CVE-2016-4728",
-    "bugzilla": [],
+    "bugzilla": [
+      "52192"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b0203f6112c315f7df2e2ccedb11679a5aad7853"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0006.html"
+      "https://webkitgtk.org/security/WSA-2016-0006.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=52192"
     ],
     "releases": [
       {
@@ -872,16 +959,21 @@
   },
   {
     "id": "CVE-2016-4657",
-    "bugzilla": [],
+    "bugzilla": [
+      "160948"
+    ],
     "impacts": [
       "Visiting a maliciously crafted website may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/61c15606340a5639c3de9d5bc36869bfbbf8f58d"
+    ],
     "references": [
       "https://webkitgtk.org/security/WSA-2016-0006.html",
       "https://www.exploit-db.com/exploits/44836/",
-      "https://www.youtube.com/watch?v=xkdPjbaLngE"
+      "https://www.youtube.com/watch?v=xkdPjbaLngE",
+      "https://bugs.webkit.org/show_bug.cgi?id=160948"
     ],
     "releases": [
       {
@@ -893,14 +985,19 @@
   },
   {
     "id": "CVE-2016-4624",
-    "bugzilla": [],
+    "bugzilla": [
+      "156444"
+    ],
     "impacts": [
       "Visiting a maliciously crafted website may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/61f9064d993022ed455e7a20bce06c7f96be1c78"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0005.html"
+      "https://webkitgtk.org/security/WSA-2016-0005.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=156444"
     ],
     "releases": [
       {
@@ -912,14 +1009,19 @@
   },
   {
     "id": "CVE-2016-4623",
-    "bugzilla": [],
+    "bugzilla": [
+      "154201"
+    ],
     "impacts": [
       "Visiting a maliciously crafted website may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c74349128b4d9450c1751e71431ae1298623a4b5"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0005.html"
+      "https://webkitgtk.org/security/WSA-2016-0005.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=154201"
     ],
     "releases": [
       {
@@ -971,14 +1073,19 @@
   },
   {
     "id": "CVE-2016-4592",
-    "bugzilla": [],
+    "bugzilla": [
+      "151825"
+    ],
     "impacts": [
       "Visiting a maliciously crafted webpage may lead to a system denial of service"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/61f11928452a95a2c08fcf0c72eb5f83b6fd21cd"
+    ],
     "references": [
-      "https://webkitgtk.org/security/WSA-2016-0005.html"
+      "https://webkitgtk.org/security/WSA-2016-0005.html",
+      "https://bugs.webkit.org/show_bug.cgi?id=151825"
     ],
     "releases": [
       {
@@ -1293,15 +1400,20 @@
   },
   {
     "id": "CVE-2016-1778",
-    "bugzilla": [],
+    "bugzilla": [
+      "151685"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9f7dfa3626d24aa9945d97b0bbec3fc9973ac788"
+    ],
     "references": [
       "https://webkitgtk.org/security/WSA-2016-0003.html",
-      "https://www.zerodayinitiative.com/advisories/ZDI-16-200/"
+      "https://www.zerodayinitiative.com/advisories/ZDI-16-200/",
+      "https://bugs.webkit.org/show_bug.cgi?id=151685"
     ],
     "releases": [
       {

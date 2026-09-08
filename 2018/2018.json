@@ -376,13 +376,19 @@
   },
   {
     "id": "CVE-2018-4360",
-    "bugzilla": [],
+    "bugzilla": [
+      "187446"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
-    "references": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/3560d4835b12643f6bfdeb2dfcd5881e87b88d11"
+    ],
+    "references": [
+      "https://cveawg.mitre.org/api/cve/CVE-2018-4360"
+    ],
     "releases": [
       {
         "name": "iOS 12.0",

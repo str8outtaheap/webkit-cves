@@ -116,7 +116,7 @@
 | CVE-2017-2455 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
 | CVE-2017-2454 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
 | CVE-2017-2447 | — | Visiting a maliciously crafted website may compromise user information | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2446 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2446 | [165628](https://bugs.webkit.org/show_bug.cgi?id=165628) | Processing maliciously crafted web content may lead to arbitrary code execution | no | [389a27db74f7](https://github.com/WebKit/WebKit/commit/389a27db74f7f55b128724a967a4d257b860dad1) | [iOS 10.3](https://support.apple.com/en-us/103075) |
 | CVE-2017-2445 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
 | CVE-2017-2433 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
 | CVE-2017-2424 | — | Processing maliciously crafted web content may result in the disclosure of process memory | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |

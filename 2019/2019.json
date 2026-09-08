@@ -1277,15 +1277,20 @@
   },
   {
     "id": "CVE-2019-8615",
-    "bugzilla": [],
+    "bugzilla": [
+      "196525"
+    ],
     "impacts": [
       "Processing maliciously crafted web content may lead to arbitrary code execution"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/38c14d3a643be588fb8c59817b693232f9bff2f4"
+    ],
     "references": [
       "https://webkitgtk.org/security/WSA-2019-0003.html",
-      "https://www.zerodayinitiative.com/advisories/ZDI-19-529/"
+      "https://www.zerodayinitiative.com/advisories/ZDI-19-529/",
+      "https://bugs.webkit.org/show_bug.cgi?id=196525"
     ],
     "releases": [
       {
