@@ -27,7 +27,9 @@
       "Processing maliciously crafted web content may lead to memory corruption"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/28da9c5a837bb8c3ccce2a061d41c87e980c0858"
+    ],
     "references": [],
     "releases": [
       {
@@ -563,7 +565,9 @@
       "Visiting a website may lead to an app denial-of-service"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/a37a6505759f8bb5f420ccc45828d1f62ae4b8c4"
+    ],
     "references": [],
     "releases": [
       {
