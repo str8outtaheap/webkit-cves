@@ -581,6 +581,74 @@
     ]
   },
   {
+    "id": "CVE-2026-64779",
+    "bugzilla": [
+      "321485"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      },
+      {
+        "name": "macOS Tahoe 26.6.2",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "Safari 26.6.1",
+        "date": "2026-08-18",
+        "advisory": "https://support.apple.com/en-us/148286"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64778",
+    "bugzilla": [
+      "322124"
+    ],
+    "impacts": [
+      "Visiting a maliciously crafted website may leak sensitive data"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      },
+      {
+        "name": "iOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148282"
+      },
+      {
+        "name": "macOS Tahoe 26.6.2",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "Safari 26.6.1",
+        "date": "2026-08-18",
+        "advisory": "https://support.apple.com/en-us/148286"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-64757",
     "bugzilla": [
       "315082"
@@ -723,6 +791,11 @@
         "name": "iOS 26.6",
         "date": "2026-07-27",
         "advisory": "https://support.apple.com/en-us/128066"
+      },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
       }
     ]
   },
@@ -1089,6 +1162,25 @@
         "date": "2026-06-29",
         "advisory": "https://support.apple.com/en-us/127594"
       },
+      {
+        "name": "iOS 18.7.10",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-43720",
+    "bugzilla": [
+      "313175"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
       {
         "name": "iOS 18.7.10",
         "date": "2026-08-17",
