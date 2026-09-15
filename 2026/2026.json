@@ -1,5 +1,82 @@
 [
   {
+    "id": "CVE-2026-86898",
+    "bugzilla": [
+      "318271"
+    ],
+    "impacts": [
+      "Opening a maliciously crafted webarchive file may lead to universal cross-site scripting"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27 and iPadOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149034"
+      },
+      {
+        "name": "Safari 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149039"
+      },
+      {
+        "name": "macOS Golden Gate 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149035"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-84635",
+    "bugzilla": [
+      "310457"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27 and iPadOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149034"
+      },
+      {
+        "name": "Safari 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149039"
+      },
+      {
+        "name": "macOS Golden Gate 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149035"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-65352",
+    "bugzilla": [
+      "321065"
+    ],
+    "impacts": [
+      "A website may be able to determine a user's IP address with Private Relay turned on"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "visionOS 26.6.1",
+        "date": "2026-08-17",
+        "advisory": "https://support.apple.com/en-us/148353"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-65351",
     "bugzilla": [
       "321517"
@@ -675,6 +752,35 @@
     ]
   },
   {
+    "id": "CVE-2026-64753",
+    "bugzilla": [
+      "315121"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may disclose sensitive user information"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27 and iPadOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149034"
+      },
+      {
+        "name": "Safari 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149039"
+      },
+      {
+        "name": "macOS Golden Gate 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149035"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-64730",
     "bugzilla": [
       "311660"
@@ -713,6 +819,40 @@
         "name": "iOS 26.6",
         "date": "2026-07-27",
         "advisory": "https://support.apple.com/en-us/128066"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-64718",
+    "bugzilla": [
+      "313935"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7 and iPadOS 26.7",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149041"
+      },
+      {
+        "name": "iOS 27 and iPadOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149034"
+      },
+      {
+        "name": "Safari 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149039"
+      },
+      {
+        "name": "macOS Golden Gate 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149035"
       }
     ]
   },
@@ -1215,7 +1355,8 @@
   {
     "id": "CVE-2026-43715",
     "bugzilla": [
-      "314115"
+      "314115",
+      "313577"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to memory corruption"
@@ -1233,6 +1374,11 @@
         "name": "iOS 26.5.2",
         "date": "2026-06-29",
         "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "iOS 26.7 and iPadOS 26.7",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149041"
       }
     ]
   },
