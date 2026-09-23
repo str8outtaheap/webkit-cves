@@ -25,6 +25,11 @@
         "name": "macOS Golden Gate 27",
         "date": "2026-09-14",
         "advisory": "https://support.apple.com/en-us/149035"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -54,6 +59,21 @@
         "name": "macOS Golden Gate 27",
         "date": "2026-09-14",
         "advisory": "https://support.apple.com/en-us/149035"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
@@ -102,6 +122,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -138,6 +163,21 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
@@ -174,6 +214,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -210,6 +255,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -246,6 +296,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -282,6 +337,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -318,6 +378,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -354,6 +419,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -390,6 +460,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -426,6 +501,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -462,6 +542,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -493,6 +578,21 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
@@ -529,6 +629,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -584,6 +689,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -618,6 +728,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -654,6 +769,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -688,6 +808,11 @@
         "name": "Safari 26.6.1",
         "date": "2026-08-18",
         "advisory": "https://support.apple.com/en-us/148286"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -722,6 +847,21 @@
         "name": "Safari 26.6.1",
         "date": "2026-08-18",
         "advisory": "https://support.apple.com/en-us/148286"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
@@ -777,6 +917,21 @@
         "name": "macOS Golden Gate 27",
         "date": "2026-09-14",
         "advisory": "https://support.apple.com/en-us/149035"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
@@ -853,6 +1008,11 @@
         "name": "macOS Golden Gate 27",
         "date": "2026-09-14",
         "advisory": "https://support.apple.com/en-us/149035"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -889,6 +1049,21 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
@@ -993,6 +1168,11 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
       }
     ]
   },
@@ -1029,6 +1209,21 @@
         "name": "macOS Tahoe 26.6.2",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148281"
+      },
+      {
+        "name": "tvOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149036"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
