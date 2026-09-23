@@ -1310,6 +1310,50 @@
     ]
   },
   {
+    "id": "CVE-2026-43721",
+    "bugzilla": [
+      "313478"
+    ],
+    "impacts": [
+      "A malicious website may be able to silently hijack clipboard data"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.5.2 and iPadOS 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127594"
+      },
+      {
+        "name": "macOS Tahoe 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127595"
+      },
+      {
+        "name": "Safari 26.5.2",
+        "date": "2026-06-29",
+        "advisory": "https://support.apple.com/en-us/127685"
+      },
+      {
+        "name": "tvOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128069"
+      },
+      {
+        "name": "visionOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128070"
+      },
+      {
+        "name": "watchOS 26.6",
+        "date": "2026-07-27",
+        "advisory": "https://support.apple.com/en-us/128068"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-43720",
     "bugzilla": [
       "313175"
@@ -1643,6 +1687,40 @@
     ]
   },
   {
+    "id": "CVE-2026-43670",
+    "bugzilla": [
+      "309004"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may bypass Content Security Policy"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 18.7.9 and iPadOS 18.7.9",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127111"
+      },
+      {
+        "name": "iOS 26.5 and iPadOS 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127110"
+      },
+      {
+        "name": "macOS Tahoe 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127115"
+      },
+      {
+        "name": "Safari 26.5",
+        "date": "2026-05-13",
+        "advisory": "https://support.apple.com/en-us/127121"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-43663",
     "bugzilla": [
       "312781"
@@ -1949,6 +2027,30 @@
         "name": "iOS 18.7.10",
         "date": "2026-08-17",
         "advisory": "https://support.apple.com/en-us/148287"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-28946",
+    "bugzilla": [
+      "310544"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "macOS Tahoe 26.5",
+        "date": "2026-05-11",
+        "advisory": "https://support.apple.com/en-us/127115"
+      },
+      {
+        "name": "Safari 26.5",
+        "date": "2026-05-13",
+        "advisory": "https://support.apple.com/en-us/127121"
       }
     ]
   },
@@ -2351,6 +2453,45 @@
         "name": "iOS 26.5",
         "date": "2026-05-11",
         "advisory": "https://support.apple.com/en-us/127110"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-20691",
+    "bugzilla": [
+      "306827"
+    ],
+    "impacts": [
+      "A maliciously crafted webpage may be able to fingerprint the user"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.4 and iPadOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126792"
+      },
+      {
+        "name": "macOS Tahoe 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126794"
+      },
+      {
+        "name": "Safari 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126800"
+      },
+      {
+        "name": "visionOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126799"
+      },
+      {
+        "name": "watchOS 26.4",
+        "date": "2026-03-24",
+        "advisory": "https://support.apple.com/en-us/126798"
       }
     ]
   },

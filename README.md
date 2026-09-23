@@ -2,12 +2,12 @@
 
 A list of WebKit CVEs from Apple security advisories.
 
-- Unique CVEs: 1546
+- Unique CVEs: 1550
 - Data source: [Apple security releases](https://support.apple.com/en-us/100100)
 
 | Year | CVEs | ITW |
 | --- | ---: | ---: |
-| [2026](2026/) | 95 | 0 |
+| [2026](2026/) | 99 | 0 |
 | [2025](2025/) | 66 | 3 |
 | [2024](2024/) | 46 | 4 |
 | [2023](2023/) | 56 | 12 |
