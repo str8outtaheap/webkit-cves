@@ -8,7 +8,9 @@
       "Opening a maliciously crafted webarchive file may lead to universal cross-site scripting"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ecb5a7bf75001294439b9cd83cbdabaac8fd9ac2"
+    ],
     "references": [],
     "releases": [
       {
@@ -42,7 +44,9 @@
       "Processing maliciously crafted web content may lead to an unexpected process termination"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9654ed7d9e3db5a2d34b5b0de7e6ba054cd53dd5"
+    ],
     "references": [],
     "releases": [
       {
@@ -900,7 +904,9 @@
       "Processing maliciously crafted web content may disclose sensitive user information"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/71730beeaf06cb924a28ba92efe710393c28c740"
+    ],
     "references": [],
     "releases": [
       {
@@ -1602,7 +1608,8 @@
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/866892a3052f6739cffd35175d93b0d238091b29"
+      "https://github.com/WebKit/WebKit/commit/866892a3052f6739cffd35175d93b0d238091b29",
+      "https://github.com/WebKit/WebKit/commit/5aedb82710ba578f61501106e78f6b25b7f7a558"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0004.html",
