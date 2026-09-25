@@ -3,142 +3,142 @@
 - CVEs: 137
 - [json](2017.json)
 
-| CVE | Bugzilla | Impact | ITW | Fix | Apple releases |
-| --- | --- | --- | --- | --- | --- |
-| CVE-2017-13885 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-13884 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-13870 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-13866 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-13856 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-13803 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13802 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13798 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13797 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13796 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13795 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13794 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13793 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13792 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13791 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13788 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13785 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13784 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-13783 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
-| CVE-2017-7165 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-7160 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-7157 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-7156 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-7153 | — | Visiting a malicious website may lead to user interface spoofing | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
-| CVE-2017-7144 | — | A malicious website may be able to track users in Safari private browsing mode | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7120 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7117 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7111 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7109 | — | Processing maliciously crafted web content may lead to a cross site scripting attack | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7107 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7106 | — | Visiting a malicious website may lead to address bar spoofing | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7104 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7102 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7100 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7099 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7098 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7096 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7095 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7094 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7093 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7092 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7091 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7090 | — | Cookies belonging to one origin may be sent to another origin | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7089 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7087 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7081 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
-| CVE-2017-7064 | — | An application may be able to read restricted memory | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7061 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7059 | — | Processing maliciously crafted web content with DOMParser may lead to cross site scripting | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7056 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7055 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7052 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7049 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7048 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7046 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7043 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7042 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7041 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7040 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7039 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7038 | — | Processing maliciously crafted web content with DOMParser may lead to cross site scripting | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7037 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7034 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7030 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7020 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7018 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7011 | — | Visiting a malicious website may lead to address bar spoofing | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-7006 | — | A malicious website may exfiltrate data cross-origin | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
-| CVE-2017-6984 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-6980 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2549 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2547 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2544 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2539 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2538 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2536 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2531 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2530 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2528 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2526 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2525 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2521 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2515 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2514 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2510 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2508 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2506 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2505 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2504 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2496 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
-| CVE-2017-2493 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2486 | — | Visiting a malicious website may lead to address bar spoofing | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2481 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2480 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2479 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2476 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2475 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2471 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2470 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2469 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2468 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2466 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2465 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2464 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2463 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2460 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2459 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2457 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2455 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2454 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2447 | — | Visiting a maliciously crafted website may compromise user information | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2446 | [165628](https://bugs.webkit.org/show_bug.cgi?id=165628) | Processing maliciously crafted web content may lead to arbitrary code execution | no | [389a27db74f7](https://github.com/WebKit/WebKit/commit/389a27db74f7f55b128724a967a4d257b860dad1) | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2445 | — | Processing maliciously crafted web content may lead to universal cross site scripting | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2433 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2424 | — | Processing maliciously crafted web content may result in the disclosure of process memory | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2419 | — | Processing maliciously crafted web content may lead to unexpectedly unenforced Content Security Policy | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2415 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2396 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2395 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2394 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2386 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2378 | — | Dragging and dropping a maliciously crafted link may lead to bookmark spoofing or arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2373 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2371 | — | A malicious website can open popups | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2369 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2367 | — | A malicious website may exfiltrate data cross-origin | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2366 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2365 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2364 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802)<br>[iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2017-2363 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2362 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2356 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2355 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2354 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2017-2350 | — | Processing maliciously crafted web content may exfiltrate data cross-origin | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
-| CVE-2016-9643 | — | Processing maliciously crafted web content may lead to high memory consumption | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
-| CVE-2016-9642 | — | Processing maliciously crafted web content may lead to arbitrary code execution | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE | Bugzilla | ITW | Fix | Apple releases |
+| --- | --- | --- | --- | --- |
+| CVE-2017-13885 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-13884 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-13870 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-13866 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-13856 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-13803 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13802 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13798 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13797 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13796 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13795 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13794 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13793 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13792 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13791 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13788 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13785 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13784 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-13783 | — | no | — | [iOS 11.1](https://support.apple.com/en-us/103681) |
+| CVE-2017-7165 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-7160 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-7157 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-7156 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-7153 | — | no | — | [iOS 11.2](https://support.apple.com/en-us/103808) |
+| CVE-2017-7144 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7120 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7117 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7111 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7109 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7107 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7106 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7104 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7102 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7100 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7099 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7098 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7096 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7095 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7094 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7093 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7092 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7091 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7090 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7089 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7087 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7081 | — | no | — | [iOS 11.0](https://support.apple.com/en-us/103804) |
+| CVE-2017-7064 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7061 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7059 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7056 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7055 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7052 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7049 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7048 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7046 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7043 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7042 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7041 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7040 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7039 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7038 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7037 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7034 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7030 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7020 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7018 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7011 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-7006 | — | no | — | [iOS 10.3.3](https://support.apple.com/en-us/103803) |
+| CVE-2017-6984 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-6980 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2549 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2547 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2544 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2539 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2538 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2536 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2531 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2530 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2528 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2526 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2525 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2521 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2515 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2514 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2510 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2508 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2506 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2505 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2504 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2496 | — | no | — | [iOS 10.3.2](https://support.apple.com/en-us/103641) |
+| CVE-2017-2493 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2486 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2481 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2480 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2479 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2476 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2475 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2471 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2470 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2469 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2468 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2466 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2465 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2464 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2463 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2460 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2459 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2457 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2455 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2454 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2447 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2446 | [165628](https://bugs.webkit.org/show_bug.cgi?id=165628) | no | [389a27db74f7](https://github.com/WebKit/WebKit/commit/389a27db74f7f55b128724a967a4d257b860dad1) | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2445 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2433 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2424 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2419 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2415 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2396 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2395 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2394 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2386 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2378 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2373 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2371 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2369 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2367 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2366 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2365 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2364 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802)<br>[iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2017-2363 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2362 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2356 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2355 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2354 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2017-2350 | — | no | — | [iOS 10.2.1](https://support.apple.com/en-us/103802) |
+| CVE-2016-9643 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
+| CVE-2016-9642 | — | no | — | [iOS 10.3](https://support.apple.com/en-us/103075) |
