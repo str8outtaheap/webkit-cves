@@ -3750,7 +3750,7 @@
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+      "https://github.com/WebKit/WebKit/commit/aeeeecbce0b190a72a4d39215313ecf42e3ee2b3"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
