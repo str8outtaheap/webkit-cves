@@ -1,5 +1,1336 @@
 [
   {
+    "id": "CVE-2026-113952",
+    "bugzilla": [
+      "324004"
+    ],
+    "impacts": [
+      "A website may be able to use a media format that should be restricted in Lockdown Mode"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2e5e91f10d49fc0a95c47e93a5f1e95315b599e8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-113949",
+    "bugzilla": [
+      "323097"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/72aea328b2bdae0dc3ad4391c523dae90124f095"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-113904",
+    "bugzilla": [
+      "328114"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-113903",
+    "bugzilla": [
+      "321652"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to unexpected memory modification"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/b691a36300db8aa72f5cac820720839ea782afac"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-113897",
+    "bugzilla": [
+      "328129"
+    ],
+    "impacts": [
+      "A remote attacker may be able to break out of Web Content sandbox"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112699",
+    "bugzilla": [
+      "323130"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may result in the disclosure of process memory"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/50724405dcc6e88cfe5b79efa256d9413e65b5d4"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112697",
+    "bugzilla": [
+      "322916"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/54c6c8c8bb2304befbb3d09771797654d8bce688"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112695",
+    "bugzilla": [
+      "322671"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2c0289313661d61c6086d958f582c13d32ecf98a"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112693",
+    "bugzilla": [
+      "328131"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112686",
+    "bugzilla": [
+      "323986"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/85d3c9fb1ad40358bc2fafc12ba9fe797f9695c6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112684",
+    "bugzilla": [
+      "328132"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112680",
+    "bugzilla": [
+      "323148"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may result in the disclosure of process memory"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/54132281986c805735de81268161f05a70d2abe4"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112673",
+    "bugzilla": [
+      "322033"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/ce01aa0a89788f209880d978e46ebbfcd21bf51c"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112669",
+    "bugzilla": [
+      "323173"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/fac814a921af3c12374a84a302212ca9b28ef0a1"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112666",
+    "bugzilla": [
+      "321669"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c76125e8c1c0629eabfdabeda700bc60be70d868"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112659",
+    "bugzilla": [
+      "321982"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/6f74c58ae058205a38bb1c287c413b92cf50d8b8"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112655",
+    "bugzilla": [
+      "324150"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/f44edc4634c4db09e74b8579ffd6f35a8b9bc24b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112654",
+    "bugzilla": [
+      "321934"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/19cf7bdcdf6ba5839a745d4c91461e6673cf4bdc",
+      "https://github.com/WebKit/WebKit/commit/d91fef79d01acf96ea7994f671c5b6c224051b6d"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112653",
+    "bugzilla": [
+      "323227"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/8850e4d8f596c2618219901e8e5ece5e9a0727f0"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112651",
+    "bugzilla": [
+      "322120"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/33283a77e7c0ae9e1619db4b18f87690ebbf820e",
+      "https://github.com/WebKit/WebKit/commit/333a0a32b7ad4134282f4671333f6b79f7538fb7"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112640",
+    "bugzilla": [
+      "324262"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/2e3ecba29ec9ce108128e094be61451fcb45e1ba"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112639",
+    "bugzilla": [
+      "322743"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c088da5eaf9f29740e0c6968f86b527896b6cbe2"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112637",
+    "bugzilla": [
+      "323377"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/fe938b0a2301d3d3938b2f9f3c8cad60c7c2e1a6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112626",
+    "bugzilla": [
+      "328141"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112623",
+    "bugzilla": [
+      "323265"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c9c443b2fe16019559179dd81e49a8d46e48edff"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112615",
+    "bugzilla": [
+      "324735"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process termination"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/cb3acb5a2340f84fc601a9cdaa591f064217cbf2"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-112599",
+    "bugzilla": [
+      "317465"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      },
+      {
+        "name": "watchOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149525"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-86986",
+    "bugzilla": [
+      "318331"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected Safari crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/c1b3dfb8050145b00f0b79a23cd3c230fdf330a6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-86985",
+    "bugzilla": [
+      "318522"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to an unexpected process crash"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/8d7690313428622089078027c9a1b5058e2428b6"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "tvOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149524"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-86974",
+    "bugzilla": [
+      "321609"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to memory corruption"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/7f0d94c2726c9a81dbbb4ec97878445e71ee695b"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 26.7.2 and iPadOS 26.7.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149227"
+      },
+      {
+        "name": "iOS 27.2 and iPadOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149230"
+      },
+      {
+        "name": "Safari 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149527"
+      },
+      {
+        "name": "macOS Golden Gate 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149521"
+      },
+      {
+        "name": "visionOS 27.2",
+        "date": "2026-10-26",
+        "advisory": "https://support.apple.com/en-us/149526"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-86922",
+    "bugzilla": [
+      "308231"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to arbitrary code execution"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/af957bf20474d10f05178f7c72952bd9bed0260e"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "iOS 27 and iPadOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149034"
+      },
+      {
+        "name": "Safari 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149039"
+      },
+      {
+        "name": "macOS Golden Gate 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149035"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      }
+    ]
+  },
+  {
     "id": "CVE-2026-86898",
     "bugzilla": [
       "318271"
@@ -32,6 +1363,37 @@
         "name": "visionOS 27",
         "date": "2026-09-14",
         "advisory": "https://support.apple.com/en-us/149038"
+      }
+    ]
+  },
+  {
+    "id": "CVE-2026-86872",
+    "bugzilla": [
+      "318807"
+    ],
+    "impacts": [
+      "Processing maliciously crafted web content may lead to unexpected behavior"
+    ],
+    "itw": false,
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9dcbd254af217b64f37947d680ce0c6eae0ab7e3"
+    ],
+    "references": [],
+    "releases": [
+      {
+        "name": "Safari 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149039"
+      },
+      {
+        "name": "visionOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149038"
+      },
+      {
+        "name": "watchOS 27",
+        "date": "2026-09-14",
+        "advisory": "https://support.apple.com/en-us/149037"
       }
     ]
   },
