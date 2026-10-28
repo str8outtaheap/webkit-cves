@@ -2657,7 +2657,6 @@
   {
     "id": "CVE-2026-43742",
     "bugzilla": [
-      "313693",
       "315161"
     ],
     "impacts": [
@@ -2846,7 +2845,6 @@
   {
     "id": "CVE-2026-43726",
     "bugzilla": [
-      "313693",
       "313857"
     ],
     "impacts": [
@@ -2992,7 +2990,6 @@
   {
     "id": "CVE-2026-43715",
     "bugzilla": [
-      "314115",
       "313577"
     ],
     "impacts": [
@@ -3000,7 +2997,6 @@
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/866892a3052f6739cffd35175d93b0d238091b29",
       "https://github.com/WebKit/WebKit/commit/5aedb82710ba578f61501106e78f6b25b7f7a558"
     ],
     "references": [
@@ -3047,15 +3043,13 @@
   {
     "id": "CVE-2026-43712",
     "bugzilla": [
-      "312781"
+      "314235"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
-    "commits": [
-      "https://github.com/WebKit/WebKit/commit/13bfbf94f49eab45ea7bf22c2c02759bf911bc11"
-    ],
+    "commits": [],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0004.html",
       "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
@@ -3071,13 +3065,15 @@
   {
     "id": "CVE-2026-43709",
     "bugzilla": [
-      "313693"
+      "314398"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
-    "commits": [],
+    "commits": [
+      "https://github.com/WebKit/WebKit/commit/9d2cc8c9895d51eb240b8f75575393b57bf1d478"
+    ],
     "references": [
       "https://www.thezdi.com/blog/2026/6/30/the-june-2026-apple-security-update-review"
     ],
@@ -3228,7 +3224,6 @@
   {
     "id": "CVE-2026-43699",
     "bugzilla": [
-      "313693",
       "317227"
     ],
     "impacts": [
@@ -3404,7 +3399,6 @@
   {
     "id": "CVE-2026-39872",
     "bugzilla": [
-      "312781",
       "313528"
     ],
     "impacts": [
@@ -3535,16 +3529,14 @@
   {
     "id": "CVE-2026-28955",
     "bugzilla": [
-      "308545",
-      "308707"
+      "310880"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
-      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+      "https://github.com/WebKit/WebKit/commit/5233199dcb0cd58ce73da552083e806bfe69fcb5"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3567,16 +3559,14 @@
   {
     "id": "CVE-2026-28953",
     "bugzilla": [
-      "308545",
-      "308707"
+      "309628"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
-      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+      "https://github.com/WebKit/WebKit/commit/b5a9b035e4653b99db196a731d2048a3faf996e6"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3651,14 +3641,14 @@
   {
     "id": "CVE-2026-28942",
     "bugzilla": [
-      "310234"
+      "312180"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected Safari crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/76b34686210f4f6779053590e7b9cfb1eadf6a15"
+      "https://github.com/WebKit/WebKit/commit/70753442a3d86ab5085352b3f3a8072c6733c7f3"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3701,14 +3691,14 @@
   {
     "id": "CVE-2026-28913",
     "bugzilla": [
-      "308545"
+      "311631"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+      "https://github.com/WebKit/WebKit/commit/a9f9b9ecfd4bcdaf6e324b1b77ca3b13f5d05106"
     ],
     "references": [
       "https://www.thezdi.com/blog/2026/5/12/the-apple-macos-security-update-review"
@@ -3777,16 +3767,14 @@
   {
     "id": "CVE-2026-28904",
     "bugzilla": [
-      "308545",
-      "308707"
+      "309601"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
-      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+      "https://github.com/WebKit/WebKit/commit/7663d811d06c32554470828470d3c1764144c397"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3808,16 +3796,14 @@
   {
     "id": "CVE-2026-28903",
     "bugzilla": [
-      "308545",
-      "308707"
+      "310303"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
-      "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
+      "https://github.com/WebKit/WebKit/commit/fa0214fe9a50ec15bd24aa5c8200c9f2e298639a"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3839,14 +3825,14 @@
   {
     "id": "CVE-2026-28902",
     "bugzilla": [
-      "308545"
+      "309861"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+      "https://github.com/WebKit/WebKit/commit/c8525868de350de8b7b60cfc0a5a4c730ffe2d19"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3863,14 +3849,14 @@
   {
     "id": "CVE-2026-28901",
     "bugzilla": [
-      "308545"
+      "310207"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f"
+      "https://github.com/WebKit/WebKit/commit/c5d68122b2faf486bf92a0b2f789e3cdfc3dd1d6"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0003.html",
@@ -3998,14 +3984,14 @@
   {
     "id": "CVE-2026-28857",
     "bugzilla": [
-      "306136"
+      "307723"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/6b357f32c6075bb807f52fd6cf4a68fe0ba38256"
+      "https://github.com/WebKit/WebKit/commit/4c82252b8b2face375e7d0552264de6ab7568bb6"
     ],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0002.html"
@@ -4021,7 +4007,6 @@
   {
     "id": "CVE-2026-28847",
     "bugzilla": [
-      "308545",
       "308707"
     ],
     "impacts": [
@@ -4029,7 +4014,6 @@
     ],
     "itw": false,
     "commits": [
-      "https://github.com/WebKit/WebKit/commit/392f508eef947d28a6bde03821fa669c2174c61f",
       "https://github.com/WebKit/WebKit/commit/e5368156542a8414366b922c6c8130099fc3df94"
     ],
     "references": [
@@ -4265,15 +4249,13 @@
   {
     "id": "CVE-2026-20636",
     "bugzilla": [
-      "303444"
+      "304657"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
-    "commits": [
-      "https://github.com/WebKit/WebKit/commit/4572dd488e4eb6e056e7734b9738bb4cb4b0dab0"
-    ],
+    "commits": [],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0001.html"
     ],
@@ -4288,15 +4270,13 @@
   {
     "id": "CVE-2026-20635",
     "bugzilla": [
-      "303444"
+      "304661"
     ],
     "impacts": [
       "Processing maliciously crafted web content may lead to an unexpected process crash"
     ],
     "itw": false,
-    "commits": [
-      "https://github.com/WebKit/WebKit/commit/4572dd488e4eb6e056e7734b9738bb4cb4b0dab0"
-    ],
+    "commits": [],
     "references": [
       "https://webkitgtk.org/security/WSA-2026-0001.html"
     ],
